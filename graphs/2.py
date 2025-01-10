@@ -1,3 +1,5 @@
+# If not already installed, install seaborn and matplotlib using: pip install seaborn matplotlib
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 

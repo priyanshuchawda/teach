@@ -1,3 +1,5 @@
+# If not already installed, install numpy and matplotlib using: pip install numpy matplotlib
+
 import numpy as np
 import matplotlib.pyplot as plt
 

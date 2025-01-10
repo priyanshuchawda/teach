@@ -1,3 +1,5 @@
+# If not already installed, install numpy and sounddevice using: pip install numpy sounddevice
+
 import numpy as np
 import sounddevice as sd
 

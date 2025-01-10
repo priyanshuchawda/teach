@@ -1,3 +1,5 @@
+# If not already installed, install bokeh using: pip install bokeh
+
 from bokeh.plotting import figure, show
 from bokeh.io import output_file
 

@@ -1,3 +1,5 @@
+# If not already installed, install altair and pandas using: pip install altair pandas
+
 import altair as alt
 import pandas as pd
 

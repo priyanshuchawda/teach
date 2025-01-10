@@ -1,3 +1,5 @@
+# If not already installed, install plotly using: pip install plotly
+
 import plotly.express as px
 
 data = {'Language': ['Python', 'C++', 'Java', 'JavaScript'], 'Users': [215, 130, 245, 210]}
