@@ -1,3 +1,5 @@
+# If not already installed, install pyautogui and Pillow using: pip install pyautogui Pillow
+
 import pyautogui
 from PIL import ImageGrab
 import tkinter as tk

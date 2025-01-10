@@ -1,3 +1,5 @@
+# If not already installed, install pygame using: pip install pygame
+
 import pygame
 
 pygame.init()

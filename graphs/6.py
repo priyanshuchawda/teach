@@ -1,3 +1,5 @@
+# If not already installed, install pygal using: pip install pygal
+
 import pygal
 
 pie_chart = pygal.Pie()

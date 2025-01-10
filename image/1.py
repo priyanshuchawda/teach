@@ -1,3 +1,4 @@
+# If not already installed, install opencv-python using: pip install opencv-python
 
 import cv2
 

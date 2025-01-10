@@ -1,14 +1,5 @@
 import pyautogui
 import time
-# pip install pyscreeze
-#pip install Pillow --upgrade 
-# #in case didnt worked go with this commands 
-# python -m venv .venv  
-# .venv\Scripts\activate
-
-
-# Now install the packages within the virtual environment:
-# pip install pyscreeze Pillow --upgrade
 
 # --- Basic Features ---
 
